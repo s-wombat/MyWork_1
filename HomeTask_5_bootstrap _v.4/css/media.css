@@ -1,0 +1,80 @@
+@media only screen and (max-width: 768px){
+	.carousel-indicators {
+		left: 102%;
+    	bottom: 49px;
+	}
+	.service {
+		margin-top: 30px;
+	}
+	.slider_block {
+    	height: 500px;
+    	padding-top: 60px;
+	}
+}
+/*Small Devices, Tablets*/
+@media only screen and (min-width: 768px){
+	.carousel-indicators {
+		left: 90%;
+	}
+	.carousel_text {
+		margin-top: 10px;
+	}
+	.service {
+		margin-top: 30px;
+	}
+}
+
+/*Medium Devices, Desktops*/
+@media only screen and (min-width: 992px){
+	.carousel-indicators {
+		left: 200%;
+	}
+}
+
+/*Large Devices, Wide Screens*/
+@media only screen and (min-width: 1200px){
+	.carousel-indicators {
+		left: 200%;
+	}
+	.bottom_block h4 {
+		margin-top: 52px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
